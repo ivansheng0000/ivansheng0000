@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+#About myself
+
+I am first year student at UCI, majoring in both computer science and engineering and software engineering. 
+
+`print('hello world')`
+
+*Python syntax!* Currently taking python courses. 
+
 <!--
 **ivansheng0000/ivansheng0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
